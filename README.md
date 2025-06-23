@@ -10,16 +10,6 @@ Each year, Apple introduces major updates to its platforms and frameworks at WWD
 - Provide developer-focused insights with code samples
 - Be available in multiple languages to help global developers
 
-## 📂 Directory Structure
-
-```
-wwdc-notes/
-└── WWDC2025/
-├── WWDC2025_KR.md # Korean version
-└── WWDC2025_EN.md # English version
-```
-
-
 ## 📄 Available Notes
 
 - 🇰🇷 [WWDC 2025 (Korean)](./WWDC2025/WWDC2025_KR.md)
