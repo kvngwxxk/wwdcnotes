@@ -806,14 +806,17 @@ textField.addInteraction(scribble)
   ```
 
 
-## 4. 부록
+## 4. 부록 및 출처
 
 ### WWDC 2025 주요 세션 목록 및 번호
+
 | 플랫폼 / 주제               | 세션명 및 번호                                     |
-|--|-|
+|----------------------------|----------------------------------------------------|
 | Foundation Models           | Meet the Foundation Models (WWDC25-286)            |
-| App Intents advances        | Explore new advances in App Intents (WWDC25-275)   |
+| App Intents 심화            | Explore new advances in App Intents (WWDC25-275)   |
 | SwiftUI 업데이트            | What’s new in SwiftUI (WWDC25-256)                 |
-| Swift concurrency           | Embracing Swift concurrency (WWDC25-250)           |
+| Swift 동시성               | Embracing Swift concurrency (WWDC25-250)           |
 | Metal 4 소개                | What’s new in Metal (WWDC25-262)                   |
-| Rich text in SwiftUI        | Cook up a rich text experience (WWDC25-243)  
+| SwiftUI에서의 리치 텍스트   | Cook up a rich text experience (WWDC25-243)        |
+
+> 📝 **출처**: 본 문서는 [Apple WWDC 2025](https://developer.apple.com/wwdc25/)에서 발표된 공식 콘텐츠 및 개발자 세션 영상, 문서를 기반으로 작성되었습니다.
