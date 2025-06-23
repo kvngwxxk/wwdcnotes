@@ -28,5 +28,5 @@ Currently maintained by a single author. Contributions are welcome via pull requ
 
 ---
 
-© 2025 WWDC Notes. Not affiliated with Apple Inc.
+© WWDC Notes. Not affiliated with Apple Inc.
 
